@@ -5,6 +5,7 @@ using namespace std;
 
 
 //guessing game Anika Gupta 8/30
+//rules of C++: no global variables, no strings, include iostream instead of stdio
 int main()
 {
   
